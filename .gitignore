@@ -1,0 +1,13 @@
+.idea/
+out/
+
+/target/
+frontend/node_modules/
+
+frontend/dist/
+frontend/build/
+
+frontend/.vite/
+frontend/.vite-inspect/
+
+/coverage/
